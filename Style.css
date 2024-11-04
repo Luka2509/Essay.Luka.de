@@ -5,8 +5,9 @@ body {
 }
 
 h1 {
-  color: #5983ff; 
+  color: #0000b0; 
   margin-top: 50px; 
+  font-style: times new roman;
 }
 
 
@@ -38,7 +39,7 @@ button {
 
 button a {
   text-decoration:dotted;
-  color: #000000;
+  color: #252525;
 }
 
 
